@@ -1,0 +1,1 @@
+first install serverless framework globally then you to need add in cli AWS IAM Keys (access and secret key) and then use serverless/sls deploy to deploy your code in AWS lambda serverless service , get a url to use as microservices
