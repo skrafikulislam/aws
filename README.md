@@ -1,0 +1,1 @@
+you need to install serverless framework globally and setup your IAM AWS access key and secret key as in the serverless documentation then you can do serverless/sls deploy to deploy your code to the aws lambda for use 
